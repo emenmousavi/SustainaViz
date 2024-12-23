@@ -10,7 +10,7 @@ I worked with a detailed dataset that includes several vital metrics, such as:
 - Energy Intensity: I analyzed how much energy is used per unit of economic output.
 
 ### My Visualizations & Insights
-One of the most interesting trends I uncovered was the global increase in **access to electricity**. By visualizing this metric over time, I observed a marked increase from 2000 to 2020. The graph titled** "Global Access to Electricity Over Time"** clearly showed a sharp upward trajectory, illustrating an expansion of infrastructure and policy efforts. This increase is an exciting indicator of progress, but it also drew my attention to regions where access still lags behind.
+One of the most interesting trends I uncovered was the global increase in **access to electricity**. By visualizing this metric over time, I observed a marked increase from 2000 to 2020. The graph titled **"Global Access to Electricity Over Time"** clearly showed a sharp upward trajectory, illustrating an expansion of infrastructure and policy efforts. This increase is an exciting indicator of progress, but it also drew my attention to regions where access still lags behind.
 
 In addition to electricity access, I analyzed metrics like **carbon dioxide emissions per capita** and **renewable energy capacity**. The sharp trends and comparisons across countries made it evident that while some nations have made huge strides in renewable energy implementation, others still heavily rely on fossil fuels. This pattern sparked a deeper investigation into energy transitions globally and the challenges that remain.
 
