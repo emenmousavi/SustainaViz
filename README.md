@@ -16,7 +16,7 @@ In addition to electricity access, I analyzed metrics like **carbon dioxide emis
 
 ## Academic Use Cases
 Through this project, I developed several key insights and potential use cases:
-- **Energy Consumption Prediction: **This analysis could be the basis for forecasting future global energy demands.
+- **Energy Consumption Prediction:** This analysis could be the basis for forecasting future global energy demands.
 - **Carbon Emission Forecasting:** By evaluating emissions trends, I could support forecasting efforts to reduce CO2 emissions.
 - **Renewable Energy Investment Strategies:** I can now assess countries with the best potential for renewable energy investments, particularly for sustainable projects.
 - **SDG Monitoring:** With the sharp rise in electricity access, this project could track how well the world is progressing toward achieving SDG 7.
